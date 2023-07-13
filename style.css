@@ -173,7 +173,8 @@ background: url('bg1.jpg');
 width: 100%;
 height: 80%;
 z-index: -1;
-opacity: 0.4
+opacity: 0.4;
+    display:flex
 
 ;
     
